@@ -1,0 +1,21 @@
+img{
+    width: 350px;
+    
+}
+.img0{
+    border-radius: 60%;
+}
+#img1{
+    opacity: 0.5;
+}
+h1{
+    color:darkslateblue;
+    font-size: 80px;
+    font-weight: 500;
+}
+button{
+    background-color: rgb(59, 59, 219);
+    border: none;
+    color: beige;
+    padding: 10px 20px;
+}
